@@ -1,8 +1,12 @@
+/*  General Styling */
+
 header, body {
     background-color: black;
-    font-family: "Verdana";
+    font-family: "Verdana", sans-serif;
     text-align: center;
 }
+
+/*  Main Sections */
 
 h1 {
     color: white;
@@ -20,10 +24,15 @@ p {
     font-size: 21px;
 }
 
+/*  Footer Section  */
+
 footer {
+    font-family: "Verdana", sans-serif;
     color: gray;
     text-align: right;
 }
+
+/*  Links   */
 
 a {
     color: aquamarine;
